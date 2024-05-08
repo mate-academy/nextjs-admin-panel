@@ -14,7 +14,7 @@ Implement the admin App for your Product Catalog with abilities to:
 
 Steps:
 - Create new Next.js App with TypeScript and Tailwind
-- Setup ESLint and Pretties
+- Setup ESLint and Prettier
 - Setup deployment to Vercel with PostgreSQL
 - Use Prisma to create DB schema
 - Use [Shadcn/ui](https://ui.shadcn.com/) as a component framework. It includes:
